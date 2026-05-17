@@ -2,23 +2,7 @@
 
 This repository contains the reports submitted for two editions of the Mathematical Modelling Competition organised by IMI (Universidad Complutense de Madrid).
 
-The work focuses on the formulation and solution of optimisation problems using graph theory and geometric reasoning, with particular emphasis on minimum spanning tree models.
-
----
-
-## Overview
-
-Both competitions involved modelling real-world situations as optimisation problems in Euclidean space. The main approach was to translate each problem into a weighted graph and then study efficient ways to connect all nodes while minimising total cost.
-
-The main techniques used across both editions include:
-
-- Graph modelling of spatial systems  
-- Minimum Spanning Tree formulations  
-- Prim’s algorithm for construction of optimal trees  
-- Euclidean distance as edge weights  
-- Basic heuristic ideas inspired by Steiner tree concepts  
-
-The goal in both cases was to design minimal-cost networks under geometric constraints.
+Each edition addressed different optimisation problems, modelled using graph theory and geometric methods.
 
 ---
 
@@ -30,7 +14,49 @@ The goal in both cases was to design minimal-cost networks under geometric const
 
 ---
 
-## Reports
+# 2021 Competition
 
-- 2021 Competition Report → CMM_IMI_2021_report.pdf  
-- 2022 Competition Report → CMM_IMI_2022_report.pdf  
+## Problem context
+
+The 2021 edition focused on modelling a spatial network optimisation problem where the objective was to minimise total connection cost between a set of points.
+
+The problem was formulated using graph theory and solved using minimum spanning tree techniques.
+
+## Methodology
+
+- Representation of the problem as a complete weighted graph
+- Edge weights defined by Euclidean distances
+- Construction of a Minimum Spanning Tree using Prim’s algorithm
+- Analysis of the resulting network structure
+
+## Key concepts
+
+- Minimum Spanning Tree (MST)
+- Prim’s algorithm
+- Euclidean distance graphs
+- Greedy optimisation
+
+---
+
+# 2022 Competition
+
+## Problem context
+
+The 2022 edition extended similar ideas but introduced additional geometric considerations and more complex spatial configurations.
+
+The focus remained on optimising network structures under geometric constraints.
+
+## Methodology
+
+- Graph-based modelling of spatial configurations
+- Euclidean distance as cost function
+- Minimum Spanning Tree construction as baseline solution
+- Exploration of geometric improvements and heuristic reasoning
+
+## Key concepts
+
+- Graph optimisation in Euclidean space
+- Minimum Spanning Tree (MST)
+- Geometric modelling
+- Heuristic network design ideas
+- 
