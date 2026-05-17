@@ -1,16 +1,22 @@
-# Mathematical Modelling Competition (CMM-IMI, UCM)
+# 📌 Mathematical Modelling Competition (IMI – UCM)
 
-This repository contains the final report developed for the CMM-IMI 2022 Mathematical Modelling Competition.
+**Graph optimisation and geometric modelling projects developed for the IV & V Mathematical Modelling Competition (Universidad Complutense de Madrid).**
 
-The project focuses on designing and analyzing fairness metrics in constrained matching systems, applying probabilistic modeling, optimization techniques, and simulation-based approaches.
+This repository contains solutions to real-world optimisation problems using graph theory, minimum spanning trees, and geometric heuristics.
 
-## Key Topics
+---
 
-* Constrained optimization
-* Probabilistic modeling
-* Fairness metrics
-* Simulation and heuristic methods
+## 🧠 Overview
 
-## Content
+This project includes work from two editions of the IMI Mathematical Modelling Competition (2020 and 2021), where different optimisation problems were addressed using:
 
-* Full competition report (PDF)
+- Graph theory modelling
+- Minimum Spanning Tree (MST) formulations
+- Euclidean distance optimisation
+- Heuristic and geometric improvements inspired by Steiner tree concepts
+
+The main objective was to design efficient network structures that minimise total connection cost in spatial systems.
+
+---
+
+## 📁 Repository Structure
