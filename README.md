@@ -1,22 +1,36 @@
-# 📌 Mathematical Modelling Competition (IMI – UCM)
+# Mathematical Modelling Competition (IMI – UCM)
 
-**Graph optimisation and geometric modelling projects developed for the IV & V Mathematical Modelling Competition (Universidad Complutense de Madrid).**
+This repository contains the reports submitted for two editions of the Mathematical Modelling Competition organised by IMI (Universidad Complutense de Madrid).
 
-This repository contains solutions to real-world optimisation problems using graph theory, minimum spanning trees, and geometric heuristics.
-
----
-
-## 🧠 Overview
-
-This project includes work from two editions of the IMI Mathematical Modelling Competition (2020 and 2021), where different optimisation problems were addressed using:
-
-- Graph theory modelling
-- Minimum Spanning Tree (MST) formulations
-- Euclidean distance optimisation
-- Heuristic and geometric improvements inspired by Steiner tree concepts
-
-The main objective was to design efficient network structures that minimise total connection cost in spatial systems.
+The work focuses on the formulation and solution of optimisation problems using graph theory and geometric reasoning, with particular emphasis on minimum spanning tree models.
 
 ---
 
-## 📁 Repository Structure
+## Overview
+
+Both competitions involved modelling real-world situations as optimisation problems in Euclidean space. The main approach was to translate each problem into a weighted graph and then study efficient ways to connect all nodes while minimising total cost.
+
+The main techniques used across both editions include:
+
+- Graph modelling of spatial systems  
+- Minimum Spanning Tree formulations  
+- Prim’s algorithm for construction of optimal trees  
+- Euclidean distance as edge weights  
+- Basic heuristic ideas inspired by Steiner tree concepts  
+
+The goal in both cases was to design minimal-cost networks under geometric constraints.
+
+---
+
+## Repository contents
+
+- CMM_IMI_2021_report.pdf  
+- CMM_IMI_2022_report.pdf  
+- README.md  
+
+---
+
+## Reports
+
+- 2021 Competition Report → CMM_IMI_2021_report.pdf  
+- 2022 Competition Report → CMM_IMI_2022_report.pdf  
